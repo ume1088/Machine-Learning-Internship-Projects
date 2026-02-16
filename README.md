@@ -22,7 +22,7 @@ Build a classification model to predict the likelihood of heart disease using me
 
  Task-1/
 
-─ Data/ → Dataset (CSV)
+-  Data/ → Dataset (CSV)
 - Notebook/ → Jupyter Notebook
 - Plots/ → Visualizations
 -  README.md
