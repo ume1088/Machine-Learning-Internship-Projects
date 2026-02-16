@@ -22,27 +22,27 @@ Build a classification model to predict the likelihood of heart disease using me
 
  Task-1/
 
-│ ├── Data/ → Dataset (CSV)
-│ ├── Notebook/ → Jupyter Notebook
-│ ├── Plots/ → Visualizations
-│ └── README.md
-│
+─ Data/ → Dataset (CSV)
+- Notebook/ → Jupyter Notebook
+- Plots/ → Visualizations
+-  README.md
+
 
  Task-2-HousePricePrediction/
 
-│ ├── Data/
-│ ├── Notebook/
-│ ├── Plots/
-│ └── README.md
+- Data/
+- Notebook/
+- Plots/
+- README.md
 
 
-├── Task-3-Heart Disease Prediction/
+ Task-3-Heart Disease Prediction/
 
-│ ├── Data/
-│ ├── Notebook/
-│ ├── Plots/
-│ └── README.md
-│
+- Data/
+- Notebook/
+- Plots/
+- README.md
+
 └── README.md
 
 
